@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 9ec19a959d1d3974d8ac46a27c8b02a4
+  - enabled: 1
+    path: Assets/Scenes/TownMorning.unity
+    guid: 40e09ff17f8a8ea49acd1747ac392ff7
+  - enabled: 1
+    path: Assets/Scenes/CanteenBeforeWork.unity
+    guid: bea6c0f6966fa814e8e6a05963670bba
+  - enabled: 1
+    path: Assets/Scenes/Canteen.unity
+    guid: 6c1ded8907410284bbd88bfdb4c19e82
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 3a705928499a89049a2188e7f6e9393b
+  - enabled: 1
+    path: Assets/Scenes/TownNight.unity
+    guid: 36d760295510b8e4b9f480601596bf9c
+  m_configObjects: {}

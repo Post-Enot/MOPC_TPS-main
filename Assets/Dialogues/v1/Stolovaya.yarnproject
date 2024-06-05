@@ -1,0 +1,16 @@
+{
+  "projectFileVersion": 2,
+  "sourceFiles": [
+    "Moris3.yarn"
+  ],
+  "excludeFiles": [
+    "**/*~/*"
+  ],
+  "localisation": {
+    "ru": {
+      "assets": "RU"
+    }
+  },
+  "baseLanguage": "ru",
+  "compilerOptions": {}
+}
